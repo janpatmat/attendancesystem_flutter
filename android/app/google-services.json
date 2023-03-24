@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407670193952",
+    "project_id": "itelec5exam",
+    "storage_bucket": "itelec5exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407670193952:android:6aefddee55f929d511a145",
+        "android_client_info": {
+          "package_name": "com.example.itelecexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407670193952-r6qf8r5752smdmdocsqq1injtp846gi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itelecexam2",
+            "certificate_hash": "a228750fe6c1404a8fb132ace126e2e4e78f6069"
+          }
+        },
+        {
+          "client_id": "407670193952-2l8g0dfjjgqqfglku57q4psa6tat0qnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHqEFdYgegovC3s-qHKBuR_aOVgoFu4tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407670193952-2l8g0dfjjgqqfglku57q4psa6tat0qnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
